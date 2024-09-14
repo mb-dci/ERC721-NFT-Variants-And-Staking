@@ -7,8 +7,6 @@ This repo contains a set of Solidity smart contracts that make implement NFT roy
 - [ ]  **Solidity contract 2:** A Staking contract that implements the IERC721Reciever interface. Users can send their NFTs and withdraw 10 ERC20 tokens every 24 hours.The user can withdraw the NFT at any time.
 - [ ]  **Solidity contract 3:** An ERC20 contract that will be used to reward staking. 
 
-## Documentation
-
 ## Usage
 
 ### Build
